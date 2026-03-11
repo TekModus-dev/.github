@@ -61,4 +61,4 @@ https://tekmodus.netlify.app
 
 ## 📫 Contact
 
-tekmodus.dev@gmail.com
+tekmodous@gmail.com
