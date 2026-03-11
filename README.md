@@ -5,7 +5,7 @@ Building modern web applications and scalable digital solutions.
 </p>
 
 <p align="center">
-  <img src="TekModus_logo" width="120"/>
+  <img src="TekModus_logo.png" width="120"/>
 </p>
 
 ---
